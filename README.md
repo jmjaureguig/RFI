@@ -19,3 +19,7 @@ power and frequency of stations.
 * fmlist data is a crowd-sourced effort and the information is incomplete and for some entries, not properely fill (some
   stations are listed on sub-watt power while other on the M-watt range. Therefore the world-wide map coverage calculated
   by power reflects a unrealistic map.
+
+## Authors
+* Jose M Jauregui-Garcia
+* Edgar Castillo-Dominguez
